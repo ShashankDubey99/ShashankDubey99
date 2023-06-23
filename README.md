@@ -1,7 +1,7 @@
 - 👋 Hello, the developer @ShashankDubey99 here,
 - 👀 I’m interested in Web Development, Application Development and Website Development
 - 🌱 I’m currently learning .Net and SpringBoot frameworks
-- 💞️ I’m looking to collaborate on Web related projects and Android Deelopment
+- 💞️ I’m looking to collaborate on Web related projects and Android Development
 - 📫 You can reach me on my email(Shashankdube4638@gmail.com)
 
 <!---
